@@ -1,5 +1,9 @@
 # CyberVisionaries Institute (CVI) — Cyber Foundations Student Portfolio
 
+Who are you? - My name is Chelsie, I was born and raised in the south and I'm the proud daughter and grand daughter of Marine veterans. 
+Why did you sign up for Cyber Foundations? - I signed up for Cyber Foundations to improve my technical skills so I can find gainful and useful employment.
+What do you hope to do with these skills? - I hope to build a good cybersecurity basis here with Cyber Foundations so that one day I can also have my own program to help teach basic cyber skills to underprivileged children in my hometown. 
+
 **New here? Read [START-HERE.md](start%20here/START-HERE.md) first — it walks you through your very first commit, step by step.**
 
 This repository documents your hands-on learning through the **CyberVisionaries Institute Cyber Foundations (Tier I)** program.
