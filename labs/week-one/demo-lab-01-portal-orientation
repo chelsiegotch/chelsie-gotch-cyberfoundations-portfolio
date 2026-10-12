@@ -1,0 +1,119 @@
+
+```markdown
+# Demo Lab 01: Portal Orientation & Sample Lab Check-In
+
+**Student Name:** Chelsie Gotch
+**Date Completed:** October 11, 2026
+**Phase:** Demo | **Week:** 1
+**Submission Path:** `labs/week-01/demo-lab-01-portal-orientation.md`
+
+---
+
+## Step 1 — Dashboard Review
+
+**Dashboard loaded successfully:**
+- [x] Yes
+- [ ] No — describe what happened:
+
+**Dashboard sections observed:**
+
+| Section | Visible? | Notes |
+|---------|----------|-------|
+| Lab progress | Yes | It tracks where I'm at |
+| Current lab card | Yes | Shows the steps and the template |
+| Environment or simulator access | Yes | Connected to the CLI simulator tab |
+| Account or profile menu | Yes | Top navigation bar |
+
+**Notes / issues encountered:**
+Everything loaded fine for me. No issues seeing the lab progress or the instruction cards.
+
+---
+
+## Step 2 — Lab Card Review
+
+**Lab card content displayed correctly:**
+- [x] Yes
+- [ ] No — describe what was missing or hard to read:
+
+**Formatting elements visible:**
+
+| Element | Visible? |
+|---------|----------|
+| Headings | Yes |
+| Numbered steps | Yes |
+| Checklist items | Yes |
+| Tables | Yes |
+| Code blocks | Yes |
+
+**One formatting detail that looked good:**
+I liked the "Copy Template" button. It made it way easier to grab the layout instead of trying to manually highlight everything.
+
+---
+
+## Step 3 — Sample Command Output
+
+**Output received:**
+PS C:\WINDOWS\system32> echo "CVI demo lab check-in complete."
+CVI demo lab check-in complete.
+
+**Command completed successfully:**
+- [x] Yes
+- [ ] No — troubleshooting steps taken:
+
+---
+
+## Step 4 — Status Check Output
+
+**Output received:**
+PS C:\WINDOWS\system32> whoami
+trillpc\chels
+PS C:\WINDOWS\system32> date
+
+Sunday, October 11, 2026 10:45:52 PM
+
+**Demo username shown:** trillpc\chels
+
+**Timestamp shown:** Sunday, October 11, 2026 10:45:52 PM
+
+---
+
+## Step 5 — Completion
+
+**Completion control found:**
+- [x] Yes
+- [ ] No — describe what you saw instead:
+
+**Dashboard progress updated after completion:**
+- [x] Yes
+- [ ] No
+- [ ] Not applicable in this demo environment
+
+**Screenshot or description of what you observed:**
+I didn't take a screenshot, but I just hit the submit button on the onboarding card and watched the status switch over to complete.
+
+---
+
+## Reflection
+
+**One part of the portal that felt clear:**
+The step-by-step lists. Having the exact commands laid out in code blocks helps me keep track of exactly where I'm at without getting lost in the text.
+
+**One part of the portal that could be easier for students:**
+The sandbox terminal. It threw me off when 'date' didn't work because it doesn't clearly say upfront that the simulator restricts certain commands.
+
+---
+
+## Submission Checklist
+
+- [x] All five steps reviewed
+- [x] Sample command outputs pasted
+- [x] Dashboard observations recorded
+- [x] Reflection section filled in
+- [x] File saved as `demo-lab-01-portal-orientation.md`
+- [x] Demo marked complete in the portal, if completion tracking is enabled
+
+---
+
+CVI CyberFoundations Career Pathway — Demo Week
+
+```
