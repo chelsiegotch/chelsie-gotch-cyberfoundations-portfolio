@@ -57,13 +57,13 @@ Before you start typing, remember these three professional efficiency "cheat cod
 
 ## 🛠️ Lab Checklist
 
-- [ ] Part A: Complete the Bash Pass (bash commands), including creating and backing up your investigation note
+- [x] Part A: Complete the Bash Pass (bash commands), including creating and backing up your investigation note
 
-- [ ] Part B: Complete the PowerShell Pass (PowerShell commands), including creating and backing up your investigation note
+- [x] Part B: Complete the PowerShell Pass (PowerShell commands), including creating and backing up your investigation note
 
-- [ ] Part C: Side-by-Side Comparison & Reflection
+- [x] Part C: Side-by-Side Comparison & Reflection
 
-- [ ] Analysis Questions: Final Conceptual Review
+- [x] Analysis Questions: Final Conceptual Review
 
 ---
 
