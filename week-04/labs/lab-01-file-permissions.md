@@ -287,11 +287,11 @@ The Windows approach is really helpful when you need to give one specific person
 
 - [x] **REQUIRED:** `cli-permissions-audit.png` (BEFORE listing, all fixes, AFTER listing) uploaded to `assets/screenshots/week-04/` and its link pasted in the screenshot box below (Part B, Step 4)
 
-- [ ] `Get-Acl shift-notes.txt` output recorded and the entry translated (Part C, PowerShell)
+- [x] `Get-Acl shift-notes.txt` output recorded and the entry translated (Part C, PowerShell)
 
-- [ ] All four Analysis Questions answered (minimum sentence counts met)
+- [x] All four Analysis Questions answered (minimum sentence counts met)
 
-- [ ] This file is committed to your portfolio repo at `week-04/labs/lab-01-file-permissions.md`
+- [x] This file is committed to your portfolio repo at `week-04/labs/lab-01-file-permissions.md`
 
 ---
 
